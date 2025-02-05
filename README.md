@@ -5,6 +5,7 @@
 ## 🚀 Description
 Un outil de surveillance des connexions vocales Discord en analysant le trafic réseau UDP en temps réel. Il masque certaines IP locales et affiche les connexions détectées dans la console.
 
+
 ---
 
 ## 📜 Fonctionnalités
@@ -13,13 +14,14 @@ Un outil de surveillance des connexions vocales Discord en analysant le trafic r
 ✅ Affichage coloré des connexions pour une meilleure lisibilité 🌈
 ✅ Exécution en tant qu'administrateur requise ⚠️
 ✅ Filtrage du trafic UDP pour capturer uniquement les paquets Discord 📡
+✅ MultiOS
 
 ---
 
 ## 🖥️ Installation
 ```bash
 # Clonez le dépôt
-git clone https://github.com/votre-utilisateur/discord-voice-sniffer.git
+git clone https://github.com/MedusaSH/DiscordVoiceSniffer.git
 cd discord-voice-sniffer
 
 # Installez les dépendances requises
@@ -31,8 +33,8 @@ pip install scapy colorama
 ## ▶️ Utilisation
 **Exécutez le script en mode administrateur :**
 ```bash
-sudo python3 discord_sniffer.py  # Sur Linux/macOS
-python discord_sniffer.py  # Sur Windows (exécutez en mode admin)
+sudo python3 discord_call.py  # Sur Linux/macOS
+python discord_call.py  # Sur Windows (exécutez en mode admin)
 ```
 
 Vous verrez un affichage en temps réel des connexions vocales détectées ! 🎙️
