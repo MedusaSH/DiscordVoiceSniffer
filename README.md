@@ -8,13 +8,13 @@ Un outil de surveillance des connexions vocales Discord en analysant le trafic r
 
 ---
 
-## 📜 Fonctionnalités\n
-✅ Détection des connexions vocales Discord 🔍\n
-✅ Masquage des IP locales sensibles 🛡️\n
-✅ Affichage coloré des connexions pour une meilleure lisibilité 🌈\n
-✅ Exécution en tant qu'administrateur requise ⚠️\n
-✅ Filtrage du trafic UDP pour capturer uniquement les paquets Discord 📡\n
-✅ MultiOS
+## 📜 Fonctionnalités
+- ✅ Détection des connexions vocales Discord 🔍
+- ✅ Masquage des IP locales sensibles 🛡️
+- ✅ Affichage coloré des connexions pour une meilleure lisibilité 🌈
+- ✅ Exécution en tant qu'administrateur requise ⚠️
+- ✅ Filtrage du trafic UDP pour capturer uniquement les paquets Discord 📡
+- ✅ MultiOS
 
 ---
 
